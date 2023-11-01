@@ -1,5 +1,13 @@
-font-size: 30px;
-text-align: center;
-text-align: center;
-color:red;
+#titulo {
+    font-size: 30px;
+    text-align: center;
+    text-align: center;
+    color: red;
+}
 
+#img{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
